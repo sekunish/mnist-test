@@ -14,7 +14,7 @@
 
 * ソースダウンロード
 
-    git clone https://www.github.com/sekunish/hoge
+    git clone https://github.com/sekunish/mnist-test.git
 
 * 各種ライブラリをインストール
 
